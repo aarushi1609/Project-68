@@ -1,0 +1,47 @@
+#picture {
+    width: 905px;
+    height: 430px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Original Surfer', cursive;
+}
+
+#marqueeStyle {
+    background-color: #F4A896;
+    font-family: 'Original Surfer', cursive;
+}
+
+.nav navbar-nav {
+    font-family: 'Original Surfer', cursive;
+}
+
+.headings {
+    font-family: 'Original Surfer', cursive;
+}
+
+.line {
+    width: 600px;
+    height: 20px;
+    background-color: #358597;
+    margin-left: 250px;
+}
+
+.container {
+    text-align: center;
+}
+
+.map{
+    width: 600px;
+}
+
+#heading1-2{
+   font-family: 'Original Surfer', cursive;
+    color: #F4A896;
+}
+
+#heading3{
+  font-family: 'Original Surfer', cursive;
+    color: #358597;
+}
