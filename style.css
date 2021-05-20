@@ -32,16 +32,32 @@ body {
     text-align: center;
 }
 
-.map{
+.map {
     width: 600px;
 }
 
-#heading1-2{
-   font-family: 'Original Surfer', cursive;
+#heading1-2 {
+    font-family: 'Original Surfer', cursive;
     color: #F4A896;
 }
 
-#heading3{
-  font-family: 'Original Surfer', cursive;
+#heading3 {
+    font-family: 'Original Surfer', cursive;
     color: #358597;
+}
+
+#myNavbar {
+    position: sticky;
+    top: 0px;
+    z-index: none;
+}
+
+#menu {
+    font-family: 'Original Surfer', cursive;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Original Surfer', cursive;
 }
