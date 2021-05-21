@@ -108,26 +108,42 @@ body {
     width: 100%;
     display: inline-block;
     padding: 5px;
-    font-family: 'Original Surfer', cursive; 
+    font-family: 'Original Surfer', cursive;
     border-radius: 10px;
 
 }
 
-.movie-head i{
+.movie-head i {
     float: right
 }
 
-#achievements{
-  font-family: 'Original Surfer', cursive;  
-      color: #F4A896;
+#achievements {
+    font-family: 'Original Surfer', cursive;
+    color: #F4A896;
 }
 
-#school-achievement1{
-   font-family: 'Original Surfer', cursive; 
-      color: #358597;
+#school-achievement1 {
+    font-family: 'Original Surfer', cursive;
+    color: #358597;
 }
 
-#school-achievement2{
-   font-family: 'Original Surfer', cursive; 
-      color: #358597;
+#school-achievement2 {
+    font-family: 'Original Surfer', cursive;
+    color: #358597;
+}
+
+.WhatIsNew img{
+    height: 200px;
+    width: 250px;
+}
+
+.heading-what{
+   font-family: 'Original Surfer', cursive;
+    color: #F4A896; 
+}
+
+.whatsnewtext{
+   font-family: 'Original Surfer', cursive;
+    color: #358597;
+    font-size: 20px;
 }
