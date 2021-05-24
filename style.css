@@ -132,18 +132,48 @@ body {
     color: #358597;
 }
 
-.WhatIsNew img{
+.WhatIsNew img {
     height: 200px;
     width: 250px;
 }
 
-.heading-what{
-   font-family: 'Original Surfer', cursive;
-    color: #F4A896; 
+.heading-what {
+    font-family: 'Original Surfer', cursive;
+    color: #F4A896;
 }
 
-.whatsnewtext{
-   font-family: 'Original Surfer', cursive;
+.whatsnewtext {
+    font-family: 'Original Surfer', cursive;
     color: #358597;
     font-size: 20px;
+}
+
+#alumni {
+    font-family: 'Original Surfer', cursive;
+}
+
+.modal-image {
+    display: inline-block;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    height: 300px;
+}
+
+#schoolalumni-1 {
+    cursor: pointer;
+}
+
+.modal-title {
+    font-family: 'Original Surfer', cursive;
+    color: #358597;
+}
+
+.modal-text {
+    font-family: 'Original Surfer', cursive;
+    color: #F4A896;
+}
+
+.outside-head {
+    font-family: 'Original Surfer', cursive;
+    color: #358597;
 }
